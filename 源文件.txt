@@ -1,0 +1,73 @@
+#aliyun
+
+deb http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse
+
+deb http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse
+
+deb http://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted universe multiverse
+
+deb http://mirrors.aliyun.com/ubuntu/ xenial-proposed main restricted universe multiverse
+
+deb http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse
+
+deb-src http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse
+
+deb-src http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse
+
+deb-src http://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted universe multiverse
+
+deb-src http://mirrors.aliyun.com/ubuntu/ xenial-proposed main restricted universe multiverse
+
+deb-src http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse
+
+
+#tsing hua
+
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
+
+deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
+
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+
+deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+
+deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+
+deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-proposed main restricted universe multiverse
+
+deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-proposed main restricted universe multiverse
+
+#zhongkeda
+
+deb https://mirrors.ustc.edu.cn/ubuntu/ bionic main restricted universe multiverse
+deb-src https://mirrors.ustc.edu.cn/ubuntu/ bionic main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+deb-src https://mirrors.ustc.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+deb-src https://mirrors.ustc.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+deb-src https://mirrors.ustc.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ bionic-proposed main restricted universe multiverse
+deb-src https://mirrors.ustc.edu.cn/ubuntu/ bionic-proposed main restricted universe multiverse
+
+#163
+
+deb http://mirrors.163.com/ubuntu/ bionic main restricted universe multiverse
+deb http://mirrors.163.com/ubuntu/ bionic-security main restricted universe multiverse
+deb http://mirrors.163.com/ubuntu/ bionic-updates main restricted universe multiverse
+deb http://mirrors.163.com/ubuntu/ bionic-proposed main restricted universe multiverse
+deb http://mirrors.163.com/ubuntu/ bionic-backports main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ bionic main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ bionic-security main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ bionic-updates main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ bionic-proposed main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ bionic-backports main restricted universe multiverse
+
+deb http://mirrors.aliyun.com/ubuntu/ groovy main universe restricted multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ groovy main universe restricted multiverse #Added by software-properties
